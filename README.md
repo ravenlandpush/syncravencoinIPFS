@@ -7,7 +7,7 @@ A simpler parallel/multi-threaded syncer for IPFS for ravencoin blockchain
 #Usage Instructions
 
 
-`
+```
 # start IPFS daemon
 ipfs daemon &
 
@@ -16,6 +16,6 @@ wget https://raw.githubusercontent.com/ravenlandpush/syncravencoinIPFS/master/sy
 
 # Execute script automation as same user
 chmod +x syncallravencoin.sh && ./syncallravencoin.sh
-`
+```
 
 This is a very easy ipfs pinner that supports multi-threading. I may consider adding more advacned timeout functionality in the meantime whilst IPFS tools and batch management/job management is very limited.
