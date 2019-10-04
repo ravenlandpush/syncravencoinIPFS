@@ -2,7 +2,7 @@
 A simpler parallel/multi-threaded syncer for IPFS for ravencoin blockchain
 
 
-![Multithreaded IPFS Pinner for Ravencoin Blockchain](https://gateway.ravenland.org/ipfs/QmRSnBMtyFRSa7sP4VDXFtz7TkpmDpQauviyR1S2we983R "Pin Ravencoin to IPFS fast")
+![Multithreaded IPFS Pinner for Ravencoin Blockchain](https://gateway.ravenland.org/ipfs/QmZypBmUuRwVNwnUwe58zxyYZyv6WpBuqXcBgL71ArQhEn "Pin Ravencoin to IPFS fast")
 
 # Usage Instructions
 
