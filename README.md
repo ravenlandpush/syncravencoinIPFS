@@ -18,4 +18,4 @@ wget https://raw.githubusercontent.com/ravenlandpush/syncravencoinIPFS/master/sy
 chmod +x syncallravencoin.sh && ./syncallravencoin.sh
 ```
 
-This is a very easy ipfs pinner that supports multi-threading. I may consider adding more advacned timeout functionality in the meantime whilst IPFS tools and batch management/job management is very limited.
+This is a very easy ipfs pinner that supports multi-threading. I may consider adding more advanced timeout and filesize functionality in the meantime, like we have for ravencoinOS pin management. Nice alternative script, automating adding ravencoin IPFS pinning in simplest and quickest way. Warning puts some load on ipfs and system.
